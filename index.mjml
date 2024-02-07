@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-title>Transactional Email Template</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Verdana" />
+      <mj-text padding="0" />
+      <mj-section background-color="white" text-align="center" padding="0" />
+    </mj-attributes>
+    <mj-style> .receipt p{ margin: 0; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#ccc">
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://i.ibb.co/hLBTHjH/RAW-COOKIES.png"
+          alt="email-banner" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="16px">
+      <mj-column>
+        <mj-text align="left">
+          <h3>RAW COOKIES</h3>
+          <p>1234 Fake Street, City, State, Zip</p>
+          <p>777-777-7777</p>
+          <p style="text-align: center; margin: 0">
+            Order #: 22657234839748611
+          </p>
+          <p style="text-align: center; font-size: 8px; margin: 0">
+            (Note: You do not need this number to pickup)
+          </p>
+          <h3>Payment Method: Google Pay Visa x-7777</h3>
+          <h3>FOR PICKUP</h3>
+          <p style="text-align: center">
+            Order ready at <b>5:06 PM</b>, TODAY (TUESDAY, 1/30/2024)
+          </p>
+          <p style="text-align: center">
+            Please pick up your order inside the restaurant.
+          </p>
+        </mj-text>
+        <mj-divider border-width="5px" border-style="solid" />
+        <mj-text>
+          <h3>Order Details:</h3>
+        </mj-text>
+        <mj-table css-class="receipt" padding="0">
+          <tr>
+            <td>
+              <p>2 x Chocolate Chip</p>
+            </td>
+            <td>
+              <p>(2 x $4.25)</p>
+            </td>
+            <td>
+              <p>=</p>
+            </td>
+            <td>
+              <p>$8.50</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>1 x Red Velvet</p>
+            </td>
+            <td>
+              <p>(1 x $4.50)</p>
+            </td>
+            <td>
+              <p>=</p>
+            </td>
+            <td>
+              <p>$4.50</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>3 x S'mores</p>
+            </td>
+            <td>
+              <p>(3 x $4.50)</p>
+            </td>
+            <td>
+              <p>=</p>
+            </td>
+            <td>
+              <p>$13.50</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>2 x Cinnamon Roll</p>
+            </td>
+            <td>
+              <p>(3 x $4.75)</p>
+            </td>
+            <td>
+              <p>=</p>
+            </td>
+            <td>
+              <p>$9.50</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p style="padding-top: 16px">SUBTOTAL</p>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+              <p>$36.00</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>FOOD TAX</p>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+              <p>$2.52</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>SERVICE FEE</p>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+              <p>$3.00</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h3 style="padding-top: 16px">TOTAL</h3>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+              <p>$41.52</p>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="5px" border-style="solid" />
+        <mj-text align="center">
+          <p>Thank you for your order.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social inner-padding="10px" icon-size="25px" mode="horizontal">
+          <mj-social-element
+            src="https://i.ibb.co/nCwMZyG/linkedin-1.png"
+            href="www.linkedin.com/in/teriq-douglas-527233152">
+          </mj-social-element>
+          <mj-social-element
+            src="https://i.ibb.co/SRrPk45/facebook-1.png"
+            href="#">
+          </mj-social-element>
+          <mj-social-element
+            href="https://twitter.com/yungicedt"
+            src="https://i.ibb.co/GWwx6sj/twitter.png">
+          </mj-social-element>
+          <mj-social-element
+            href="#"
+            src="https://i.ibb.co/JKZkHCh/instagram-1.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://i.ibb.co/6HfGd9W/tik-tok.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0"
+          src="https://i.ibb.co/hLBTHjH/RAW-COOKIES.png"
+          alt="email-banner" />
+      </mj-column>
+  </mj-body>
+</mjml>
