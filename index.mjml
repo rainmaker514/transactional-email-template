@@ -13,7 +13,7 @@
       <mj-column>
         <mj-image
           padding="0"
-          src="https://i.ibb.co/hLBTHjH/RAW-COOKIES.png"
+          src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683096/RAW-COOKIES_q5zokg.png"
           alt="email-banner" />
       </mj-column>
     </mj-section>
@@ -150,22 +150,22 @@
       <mj-column>
         <mj-social inner-padding="10px" icon-size="25px" mode="horizontal">
           <mj-social-element
-            src="https://i.ibb.co/nCwMZyG/linkedin-1.png"
+            src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683094/linkedin-1_via2n6.png"
             href="www.linkedin.com/in/teriq-douglas-527233152">
           </mj-social-element>
           <mj-social-element
-            src="https://i.ibb.co/SRrPk45/facebook-1.png"
+            src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683092/facebook-1_uar4gi.png"
             href="#">
           </mj-social-element>
           <mj-social-element
             href="https://twitter.com/yungicedt"
-            src="https://i.ibb.co/GWwx6sj/twitter.png">
+            src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683091/twitter_1_iwb1fd.png">
           </mj-social-element>
           <mj-social-element
             href="#"
-            src="https://i.ibb.co/JKZkHCh/instagram-1.png">
+            src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683088/instagram-1_lc3c4j.png">
           </mj-social-element>
-          <mj-social-element href="#" src="https://i.ibb.co/6HfGd9W/tik-tok.png">
+          <mj-social-element href="#" src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683088/tik-tok_1_f5uhag.png">
           </mj-social-element>
         </mj-social>
       </mj-column>
@@ -174,7 +174,7 @@
       <mj-column>
         <mj-image
           padding="0"
-          src="https://i.ibb.co/hLBTHjH/RAW-COOKIES.png"
+          src="https://res.cloudinary.com/dok4izhx6/image/upload/v1721683096/RAW-COOKIES_q5zokg.png"
           alt="email-banner" />
       </mj-column>
   </mj-body>
